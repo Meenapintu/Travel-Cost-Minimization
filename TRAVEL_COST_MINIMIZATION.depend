@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1456758885 source:d:\lwin\cpp\travel_cost_minimization\main.cpp
+	<iostream>
+	"Travel_cost.h"
+
+1457267808 d:\lwin\cpp\travel_cost_minimization\include\travel_cost.h
+	<iostream>
+
+1457266408 source:d:\lwin\cpp\travel_cost_minimization\src\travel_cost.cpp
+	"Travel_cost.h"
+
+1456758885 source:d:\lwin\cpp\travel-cost-minimization\main.cpp
+	<iostream>
+	"Travel_cost.h"
+
+1457267808 d:\lwin\cpp\travel-cost-minimization\include\travel_cost.h
+	<iostream>
+
+1457266408 source:d:\lwin\cpp\travel-cost-minimization\src\travel_cost.cpp
+	"Travel_cost.h"
+
