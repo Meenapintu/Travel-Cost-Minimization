@@ -1,0 +1,21 @@
+suppose you are travelling from M to D in an electric car
+which has a battery that can hold one Coulomb of charge on which it
+can run 100 km.  You start with your car fully charged.  You are given
+numbers D[1..n] and P[1..n] where D[i] denotes the distance of
+the ith charging station from M, and P[i] the charging price
+per Coulomb at the ith charging station.  If your battery currently
+holds x coulombs, you may buy any amount of charge between 0 and
+1-x coulombs.
+
+Give an algorithm to decide where you will buy the charge, and how
+much you will buy so as to minimize your total expense.  You can
+assume that D[i] are given in increasing order, and that there are
+sufficiently many charging stations that it is possible to make the
+journey without running out of charge.
+
+Input: given as n D[1] P[1] D[2] P[2] ... D[n] P[n]
+
+
+out put is 
+ total cost amount of fuel taken from each station :wq
+

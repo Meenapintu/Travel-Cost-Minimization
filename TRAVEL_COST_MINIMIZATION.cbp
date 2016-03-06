@@ -31,7 +31,6 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="assignment3.cpp" />
 		<Unit filename="include/Travel_cost.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Travel_cost.cpp" />
